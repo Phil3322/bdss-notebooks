@@ -10,3 +10,4 @@ dependencies:
   - pip:
     - aequitas
     - recordlinkage
+    -bs4
