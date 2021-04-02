@@ -2,6 +2,7 @@ name: ada-intro-sql
 channels:
   - conda-forge
 dependencies:
+  -bs4 
   - ipywidgets
   - beakerx
   - scikit-learn
@@ -10,4 +11,3 @@ dependencies:
   - pip:
     - aequitas
     - recordlinkage
-    -bs4
