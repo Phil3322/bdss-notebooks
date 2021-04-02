@@ -2,7 +2,7 @@
 
 **Brian Kim, Christoph Kern, Jonathan Scott Morgan, Clayton Hunter, Avishek Kumar**
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Coleridge-Initiative/bdss-notebooks/master)
+[![Binder](https://mybinder.org/v2/gh/Phil3322/bdss-notebooks/de0c613053c199b9ef39572a79cd7e0a54ab0766)
 
 Notebook Descriptions and Links
 ------------
