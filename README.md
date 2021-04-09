@@ -2,7 +2,7 @@
 
 **Brian Kim, Christoph Kern, Jonathan Scott Morgan, Clayton Hunter, Avishek Kumar**
 
-[![Another Binder]](https://mybinder.org/v2/gh/Phil3322/bdss-notebooks/de0c613053c199b9ef39572a79cd7e0a54ab0766)
+[![Another MyBinderjupyterlab]](https://mybinder.org/v2/gh/Phil3322/bdss-notebooks/8835b244b0fefd792194c7d2bb65dbf81f0bcfb2)
 
 Notebook Descriptions and Links
 ------------
