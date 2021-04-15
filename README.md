@@ -9,7 +9,7 @@ Notebook Descriptions and Links
 
 ## Databases
 
-[Link to Databases notebook](https://mybinder.org/v2/gh/Coleridge-Initiative/bdss-notebooks/master?filepath=01_Databases.ipynb)
+)
 
 
 The *Databases* notebook builds the foundation of using SQL to query data. 
@@ -24,7 +24,7 @@ the North Carolina Department of Corrections Data
 
 ## Dataset Exploration and Visualization
 
-[Link to Dataset Exploration and Visualization notebook](https://mybinder.org/v2/gh/Coleridge-Initiative/bdss-notebooks/master?filepath=02_Dataset_Exploration_and_Visualization.ipynb)
+ 
 
 The *Dataset Exploration and Visualization* notebook further explores the 
 North Carolina Department of Correction data, demonstrating how to work with 
@@ -45,7 +45,7 @@ visualizations. In this workbook, you will learn how to:
 ## APIs 
 
 
-[Link to APIs notebook](https://mybinder.org/v2/gh/Coleridge-Initiative/bdss-notebooks/master?filepath=03_API.ipynb)
+
 
 The *APIs* notebook introduces you to the use of Internet-based web service 
 APIs for retrieving data from online data stores. This notebook walks through 
@@ -62,7 +62,7 @@ In this workbook, you will learn how to:
 
 ## Record Linkage
 
-[Link to Record Linkage notebook](https://mybinder.org/v2/gh/Coleridge-Initiative/bdss-notebooks/master?filepath=04_Record_Linkage.ipynb)
+ 
 
 In the *Record Linkage* workbook, you will use Python to implement the basic
 concepts behind record linkage using data from PatentsView and Federal 
@@ -83,7 +83,7 @@ In this workbook, you will learn how to:
 
 ## Text Analysis 
 
-[Link to Text Analysis notebook](https://mybinder.org/v2/gh/Coleridge-Initiative/bdss-notebooks/master?filepath=05_Text_Analysis.ipynb)
+
 
 In the *Text Analysis* notebook, you will use the data that you pulled from 
 the PatentsView API in the API notebook to find topics from patent abstracts. 
@@ -99,7 +99,7 @@ In this workbook, you will learn how to:
 
 ## Networks
 
-[Link to Networks notebook](https://mybinder.org/v2/gh/Coleridge-Initiative/bdss-notebooks/master?filepath=06_Networks.ipynb)
+ 
 
 In the *Networks* workbook you will create network data where the nodes
 are researchers who have been awarded grants, and ties are created
@@ -114,8 +114,7 @@ In this workbook, you will learn how to:
 
 ## Machine Learning -- Creating Labels
 
-[Link to Machine Learning notebook 1](https://mybinder.org/v2/gh/Coleridge-Initiative/bdss-notebooks/master?filepath=
-07_1_Machine_Learning_Labels.ipynb)
+ 
 
 
 The *Machine Learning Creating Labels* workbook is the first of a three-part Machine Learning workbook sequence, starting with how to create an 
@@ -132,7 +131,7 @@ how to:
 
 ## Machine Learning -- Creating Features
 
-[Link to Machine Learning notebook 2](https://mybinder.org/v2/gh/Coleridge-Initiative/bdss-notebooks/master?filepath=07_2_Machine_Learning_Features.ipynb)
+ 
 
 The *Machine Learning Creating Features* workbook prepares predictors 
 (features) for the machine learning task that has been introduced in the 
@@ -147,7 +146,7 @@ a given date. In this workbook, you will learn how to:
 
 ## Machine Learning -- Model Training and Evaluation
 
-[Link to Machine Learning notebook 3](https://mybinder.org/v2/gh/Coleridge-Initiative/bdss-notebooks/master?filepath=07_3_Machine_Learning_Models.ipynb)
+
 
 The *Machine Learning Model Training and Evaluation* workbook uses the 
 label and features that were created in the previous workbooks to construct 
@@ -164,7 +163,7 @@ it demonstrates how to construct and compare many different machine learning mod
 
 ## Bias and Fairness
 
-[Link to Bias and Fairness notebook](https://mybinder.org/v2/gh/Coleridge-Initiative/bdss-notebooks/master?filepath=08_Bias_and_Fairness.ipynb)
+
 
 
 The *Bias and Fairness* workbook demonstrates an example of using the bias and 
@@ -181,7 +180,7 @@ multiple (protected) subgroups. You will learn how to:
 
 ### Errors and Inference
 
-[Link to Errors and Inference notebook](https://mybinder.org/v2/gh/Coleridge-Initiative/bdss-notebooks/master?filepath=09_Errors_and_Inference.ipynb)
+
 
 The *Errors and Inference* workbook walks through how one might think critically about issues that might arise in their analysis. In this notebook, you will evaluate the machine learning models from previous notebooks and learn about ways to improve the data to use as much information as possible to make conclusions. Specifically, you will learn how to: 
 
